@@ -6,34 +6,34 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'password-generator',
+      description: 'JavaScript',
+      link: "https://github.com/JamesStitzel/Password_Generator",
+      repo: "https://github.com/JamesStitzel/Password_Generator"
     },
     {
-      name: 'pastel-puzzels',
+      name: 'budget-tracker',
       description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://github.com/JamesStitzel/Budget-Tracker",
+      repo: "https://github.com/JamesStitzel/Budget-Tracker"
     },
     {
-      name: 'run-buddy',
+      name: 'daily-felon',
       description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://github.com/JamesStitzel/The-Daily-Felon",
+      repo: "https://github.com/JamesStitzel/The-Daily-Felon"
     },
     {
-      name: 'led-wall',
+      name: 'note-taker',
       description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://github.com/JamesStitzel/Note-Taker-2000",
+      repo: "https://github.com/JamesStitzel/Note-Taker-2000"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'day-planner',
+      description: 'JavaScript/CSS',
+      link: "https://github.com/JamesStitzel/Day-Planner",
+      repo: "https://github.com/JamesStitzel/Day-Planner"
     },
   ]);
 
